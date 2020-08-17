@@ -9,10 +9,13 @@
 }
 .main{
   float: left;
- width: 33.33%
+  width: 33.33%
+  background-color: green;
+  border: 10px solid black;
+
 }
 
 h1
 {
-  text-align: center;
+  text-align:center;
 }
