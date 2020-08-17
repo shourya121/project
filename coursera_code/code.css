@@ -14,18 +14,21 @@ h1
     float: left;
     border: 1px solid black;
     width:400px;
+    margin: auto;
   }
   .beef{
   background-color: green;
   float: left;
   border: 1px solid black;
   width: 400px;
+  margin: auto;
   }
   .sushi{
     background-color:pink;
     float: left;
     border: 1px solid black;
     width: 400px;
+    margin: auto;
   }
 }
 @media(min-width:768px) and (max-width:991px) {
@@ -39,12 +42,14 @@ h1
     float: left;
     border: 1px solid black;
     width:300px;
+    margin: auto;
   }
   .beef{
   width:300px;
   background-color: green;
   float: left;
   border: 1px solid black;
+  margin: auto;
   }
   .sushi{
     background-color:pink;
