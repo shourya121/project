@@ -49,3 +49,25 @@ h1
     border: 1px solid black;
   }
 }
+@media (max-width:767px) {
+  .main:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  .chicken{
+    background-color: red;
+    float: left;
+    border: 1px solid black;
+  }
+  .beef{
+  background-color: green;
+  float: left;
+  border: 1px solid black;
+  }
+  .sushi{
+    background-color:pink;
+    float: left;
+    border: 1px solid black;
+  }
+}
