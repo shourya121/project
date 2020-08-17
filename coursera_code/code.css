@@ -2,16 +2,25 @@
   background-color: red;
   float: left;
   width: 33.33%;
+  padding:30px;
+  border: 1px solid black;
+  height:40%;
 }
 .sushi{
   background-color:yellow;
   float: left;
   width: 33.33%;
+  padding:30px;
+  border: 1px solid black;
+  height:40%;
 }
 .beef{
   background-color: green;
   float: left;
   width: 33.33%;
+  padding:30px;
+  border: 1px solid black;
+  height:40%;
 }
 .main:after {
     content: "";
