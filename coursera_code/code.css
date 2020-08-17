@@ -8,27 +8,25 @@ h1
       content: "";
       display: table;
       clear: both;
+      margin-left: 30px;
     }
   .chicken{
     background-color: red;
     float: left;
     border: 1px solid black;
     width:400px;
-    margin: auto;
   }
   .beef{
   background-color: green;
   float: left;
   border: 1px solid black;
   width: 400px;
-  margin: auto;
   }
   .sushi{
     background-color:pink;
     float: left;
     border: 1px solid black;
     width: 400px;
-    margin: auto;
   }
 }
 @media(min-width:768px) and (max-width:991px) {
@@ -36,6 +34,7 @@ h1
       content: "";
       display: table;
       clear: both;
+      margin-left: 30px;
     }
   .chicken{
     background-color: red;
