@@ -1,21 +1,24 @@
 .chicken{
   background-color: red;
-  padding: 20px;
+  float: left;
+  width: 33.33%;
 }
 .sushi{
   background-color:yellow;
-  padding: 20px;
+  float: left;
+  width: 33.33%;
 }
 .beef{
   background-color: green;
-  padding: 20px;
+  float: left;
+  width: 33.33%;
 }
-.main{
-  float:left;
-  width: 20%
-  border: 10px solid black;
+.main:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
-}
 
 h1
 {
