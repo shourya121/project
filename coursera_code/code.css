@@ -13,19 +13,19 @@ h1
     background-color: red;
     float: left;
     border: 1px solid black;
-    width: 30px;
+    width:300px;
   }
   .beef{
   background-color: green;
   float: left;
   border: 1px solid black;
-  width: 30px;
+  width: 300px;
   }
   .sushi{
     background-color:pink;
     float: left;
     border: 1px solid black;
-    width: 30px;
+    width: 300px;
   }
 }
 @media(min-width:768px) and (max-width:991px) {
