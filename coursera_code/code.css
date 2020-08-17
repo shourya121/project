@@ -8,9 +8,7 @@
   background-color: green;
 }
 .main{
-  float: left;
-  width:20%;
-  background-color: green;
+  float:left;
   border: 10px solid black;
 
 }
