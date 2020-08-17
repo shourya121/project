@@ -39,26 +39,29 @@ h1
       content: "";
       display: table;
       clear: both;
-      margin-left: 30px;
     }
   .chicken{
     background-color: red;
     float: left;
     border: 1px solid black;
-    width:300px;
-    margin: auto;
+    width:400px;
+    height:400px;
+    margin-left:50px;
   }
   .beef{
-  width:300px;
   background-color: green;
   float: left;
   border: 1px solid black;
-  margin: auto;
+  width:400px;
+  height:400px;
+  margin-left:50px;
   }
   .sushi{
-    background-color:pink;
+    background-color:yellow;
     float: left;
     border: 1px solid black;
+    width:400px;
+    height:400px;
   }
 }
 @media (max-width:767px) {
@@ -78,7 +81,7 @@ h1
   border: 1px solid black;
   }
   .sushi{
-    background-color:pink;
+    background-color:yellow;
     float: left;
     border: 1px solid black;
   }
