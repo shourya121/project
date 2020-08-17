@@ -3,7 +3,7 @@ h1
 {
   text-align:center;
 }
-@media (max-width:992px) {
+@media (min-width:992px) {
   .main:after {
       content: "";
       display: table;
@@ -23,6 +23,30 @@ h1
   }
   .sushi{
     width: 30px;
+    background-color:pink;
+    float: left;
+    border: 1px solid black;
+  }
+}
+@media(min-width:768px) and (max-width:991px) {
+  .main:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  .chicken{
+    width:50px;
+    background-color: red;
+    float: left;
+    border: 1px solid black;
+  }
+  .beef{
+  width: 50px;
+  background-color: green;
+  float: left;
+  border: 1px solid black;
+  }
+  .sushi{
     background-color:pink;
     float: left;
     border: 1px solid black;
