@@ -1,19 +1,16 @@
 .chicken{
   background-color: red;
   float: left;
-  width: 33.33%;
   border: 1px solid black;
 }
 .sushi{
   background-color:pink;
   float: left;
-  width: 33.33%;
   border: 1px solid black;
 }
 .beef{
   background-color: green;
   float: left;
-  width: 33.33%;
   border: 1px solid black;
 }
 .main:after {
@@ -24,4 +21,15 @@
 h1
 {
   text-align:center;
+}
+@media (min-width:992px) {
+  .chicken{
+    width: 30px;
+  }
+  .beef{
+  width: 30px;
+  }
+  .sushi{
+    width: 30px
+  }
 }
