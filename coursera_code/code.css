@@ -8,25 +8,27 @@ h1
       content: "";
       display: table;
       clear: both;
-      margin-left: 30px;
     }
   .chicken{
-    background-color: red;
-    float: left;
-    border: 1px solid black;
-    width:400px;
+      background-color: red;
+      float: left;
+      border: 1px solid black;
+      width:450px;
+      margin-left:30px;
   }
   .beef{
-  background-color: green;
-  float: left;
-  border: 1px solid black;
-  width: 400px;
-  }
-  .sushi{
-    background-color:pink;
+    background-color: green;
     float: left;
     border: 1px solid black;
-    width: 400px;
+    width: 450px;
+    margin-left:30px;
+  }
+  .sushi{
+      background-color:pink;
+      float: left;
+      border: 1px solid black;
+      width: 450px;
+      margin-left:30px;
   }
 }
 @media(min-width:768px) and (max-width:991px) {
