@@ -10,8 +10,8 @@ h1
       clear: both;
     }
     .chickentag{
-      float:right top;
-      width: 10px;
+      float:left top;
+      width:60px;
       background-color:pink;
     }
   .chicken{
@@ -44,6 +44,11 @@ h1
       content: "";
       display: table;
       clear: both;
+    }
+    .chickentag{
+      float:left top;
+      width:60px;
+      background-color:pink;
     }
   .chicken{
     background-color: red;
@@ -84,6 +89,11 @@ h1
     width:400px;
     height:400px;
     margin-left:50px;
+  }
+  .chickentag{
+    float:left top;
+    width:60px;
+    background-color:pink;
   }
   .beef{
   background-color: green;
