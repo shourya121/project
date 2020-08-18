@@ -10,7 +10,7 @@ h1
       clear: both;
     }
     .chickentag{
-      float:right;
+      float:right top;
       width: 10px;
       background-color:pink;
     }
