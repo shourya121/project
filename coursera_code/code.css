@@ -9,7 +9,7 @@ h1
       display: table;
       clear: both;
     }
-    .chickentag{
+    #chickentag{
       margin:auto;
       width:60px;
       background-color:black;
@@ -48,7 +48,7 @@ h1
       display: table;
       clear: both;
     }
-    .chickentag{
+    #chickentag{
       margin:auto;
       width:60px;
       background-color:black;
@@ -98,7 +98,7 @@ h1
     margin-left:50px;
     color: white;
   }
-  .chickentag{
+  #chickentag{
     margin:auto;
     width:60px;
     background-color:black;
