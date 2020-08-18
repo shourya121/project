@@ -9,6 +9,11 @@ h1
       display: table;
       clear: both;
     }
+    .chickentag{
+      float:right;
+      width: 10px;
+      background-color:pink;
+    }
   .chicken{
       background-color: red;
       float: left;
@@ -57,11 +62,13 @@ h1
   margin-left:50px;
   }
   .sushi{
+    margin-top: 25px;
     background-color:yellow;
     float: left;
     border: 1px solid black;
     height:400px;
     margin-left:50px;
+
   }
 }
 @media (max-width:767px) {
