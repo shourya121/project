@@ -10,7 +10,7 @@ h1
       clear: both;
     }
     #chickentag{
-      margin:left;
+      float: right;
       width:60px;
       background-color:black;
     }
@@ -49,7 +49,7 @@ h1
       clear: both;
     }
     #chickentag{
-      margin:left;
+      float: right;
       width:60px;
       background-color:black;
     }
@@ -99,7 +99,7 @@ h1
     color: white;
   }
   #chickentag{
-    margin:left;
+    float: right;
     width:60px;
     background-color:black;
   }
