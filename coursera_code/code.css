@@ -10,9 +10,9 @@ h1
       clear: both;
     }
     .chickentag{
-      float:right top;
+      float:left top;
       width:60px;
-      background-color:pink;
+      background-color:black;
     }
   .chicken{
       background-color: red;
@@ -33,7 +33,7 @@ h1
     color: white;
   }
   .sushi{
-      background-color:yellow;
+      background-color:blue;
       float: left;
       border: 1px solid black;
       width:400px;
@@ -51,7 +51,7 @@ h1
     .chickentag{
       float:right top;
       width:60px;
-      background-color:pink;
+      background-color:black;
     }
   .chicken{
     background-color: red;
@@ -73,7 +73,7 @@ h1
   }
   .sushi{
     margin-top: 25px;
-    background-color:yellow;
+    background-color:blue;
     float: left;
     border: 1px solid black;
     height:400px;
@@ -101,7 +101,7 @@ h1
   .chickentag{
     float:right top;
     width:60px;
-    background-color:pink;
+    background-color:black;
   }
   .beef{
   background-color: green;
@@ -113,7 +113,7 @@ h1
   color: white;
   }
   .sushi{
-    background-color:yellow;
+    background-color:blue;
     float: left;
     border: 1px solid black;
     width:400px;
