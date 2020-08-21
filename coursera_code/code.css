@@ -3,9 +3,7 @@ h1
 {
   text-align:center;
 }
-body{
-  color: #3dc5e3;
-}
+
 h3{
   text-align: center;
 }
@@ -14,6 +12,18 @@ h2{
   padding:20px;
   margin: auto;
   border:5px solid black;
+}
+.chicken{
+  background-color: #3dc5e3;
+}
+.beef{
+  background-color: #f0b5ff;
+}
+.sushi{
+  background-color:#ff85ad;
+}
+.navbar-toggler{
+  color: #96ffaa;
 }
 /* @media (min-width:992px) {
   .main:after {
