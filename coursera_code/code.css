@@ -4,13 +4,13 @@ h1
   text-align:center;
 }
 body{
-  background-color: #3dc5e3;
+  color: #3dc5e3;
 }
 h3{
   text-align: center;
 }
 h2{
-  background-color: white;
+  color: white;
   padding:20px;
   margin: auto;
   border:5px solid black;
