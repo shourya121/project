@@ -24,8 +24,9 @@ h2{
   background-color:#ff85ad;
   border:5px solid black;
 }
-.navbar-toggler{
+.tags{
   color: #96ffaa;
+  text-align: center;
 }
 /* @media (min-width:992px) {
   .main:after {
